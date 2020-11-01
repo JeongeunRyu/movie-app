@@ -13,6 +13,7 @@
 }
 .detail_container .title{
     font-size: 30px;
+    font-weight: bold;
     margin-top: 10px;
     margin-bottom: 10px;
 }
